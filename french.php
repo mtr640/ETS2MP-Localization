@@ -1,18 +1,17 @@
 <?php
 //
 // ETS2MP Homepage language file.
-// File:				french.php
-// Language name: 		French
-// Translated name: 	Français
+// File:                                french.php
+// Language name:               French
+// Translated name:     Français
 //
-
 $_lang["download"] = "Télécharger";
 $_lang["home"] = "Page d'accueil";
 $_lang["status"] = "Statut";
 $_lang["username"] = "Nom d'utilisateur";
 $_lang["password"] = "Mot de passe";
 $_lang["login"] = "Se connecter";
-$_lang["register"] = "S'enregistrer";
+$_lang["register"] = "S'inscrire";
 $_lang["download.latest.version"] = "Télécharger la dernière version";
 $_lang["current.release"] = "Version actuelle";
 $_lang["language:"] = "Langage";
@@ -27,7 +26,7 @@ $_lang["welcome"] = "Bienvenue";
 $_lang["logout"] = "Se déconnecter";
 $_lang["bans"] = "Bans";
 $_lang["version"] = "Version";
-$_lang["update.time"] = "Temps de mise a jour";
+$_lang["update.time"] = "Temps de mise à jour";
 $_lang["req.game.version"] = "Version du jeu requise";
 $_lang["requires"] = "exige";
 $_lang["or.newer"] = "ou plus récente";
@@ -42,8 +41,8 @@ $_lang["successfully.registered"] = "Vous avez été enregistré avec succès ! 
 $_lang["error.unknown"] = "Erreur inconnue";
 $_lang["credentials.taken"] = "Ce nom de compte, ce mail ou cet ID Steam est déjà pris.";
 $_lang["error.no.steam.data"] = "Pour créer un compte ETS2MP, vous devez avoir ETS2 dans votre librairie de jeux Steam. Si vous l'avez, vérifiez que votre compte est public.";
-$_lang["register.steam.info"] = "Pour vous enregistrer vous devez être connecté avec votre compte Steam. Cliquez sur le bouton ci-dessous pour vous connecter";
-$_lang["rules.info"] = "Quand vous appuyez sur le bouton S'enregistrer, vous acceptez automatiquement notre règlement. Pour le lire, cliquez ici.";
+$_lang["register.steam.info"] = "Pour vous inscrire vous devez être connecté avec votre compte Steam. Cliquez sur le bouton ci-dessous pour vous connecter";
+$_lang["rules.info"] = "Quand vous appuyez sur le bouton S'inscrire, vous acceptez automatiquement notre règlement. Pour le lire, cliquez ici.";
 $_lang["mail"] = "E-Mail";
 $_lang["repeat.mail"] = "Répétez votre e-mail";
 $_lang["new.password"] = "Nouveau mot de passe";
@@ -76,7 +75,7 @@ $_lang["settings.saved.with.mail"] = "Le compte a été sauvegardé. Vérifiez v
 $_lang["new.email.in.use"] = "Cette adresse mail est déja utilisée.";
 $_lang["email.does.not.match"] = "Les adresses mail ne correspondent pas.";
 $_lang["invalid.email.format"] = "L'adresse mail que vous avez entrée est invalide.";
-$_lang["new.password.does.not.match"] = "Le nouveau mot de passe que vous avez mit ne correspond pas.";
+$_lang["new.password.does.not.match"] = "Le nouveau mot de passe que vous avez mis ne correspond pas.";
 $_lang["too.short.password"] = "Le nouveau mot de passe est trop court. Il faut au minimum 5 caractères.";
 $_lang["old.password.does.not.match"] = "L'ancien mot de passe ne correspond pas.";
 $_lang["settings.saved"] = "Les paramètres du compte ont été sauvegardés.";
@@ -87,7 +86,7 @@ $_lang["contact"] = "Contact";
 $_lang["your.mail"] = "Votre e-mail";
 $_lang["content"] = "Message";
 $_lang["send"] = "Envoyer";
-$_lang["contact.message.sent"] = "Merci de nous avoir contacté.Veuillez attendre la réponse.";
+$_lang["contact.message.sent"] = "Merci de nous avoir contacté. Veuillez attendre la réponse.";
 $_lang["topic"] = "Sujet";
 $_lang["contact.message.too.short"] = "Le message est trop court. Minimum 10 caractères.";
 $_lang["contact.topic.too.short"] = "Le sujet est trop court. Minimum 10 caractères.";
