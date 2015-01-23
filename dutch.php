@@ -105,3 +105,4 @@ $_lang["date"] = "Datum";
 $_lang["reason"] = "Reden";
 $_lang["type"] = "Type";
 $_lang["penalty.limit"] = "Alleen de eigenaar van dit profiel kan verdere historie of penalties zien.";
+$_lang["error.cannot.fetch.steam.api"] = "Unable to connect to steam api. Try again later.";

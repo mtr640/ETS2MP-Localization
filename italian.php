@@ -107,3 +107,4 @@ $_lang["date"] = "Data";
 $_lang["reason"] = "Motivo";
 $_lang["type"] = "Tipo";
 $_lang["penalty.limit"] = "Solo il proprietario di questo profilo puo' vedere la lista completa delle penalita'.";
+$_lang["error.cannot.fetch.steam.api"] = "Unable to connect to steam api. Try again later.";
